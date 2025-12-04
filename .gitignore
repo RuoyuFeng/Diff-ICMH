@@ -1,0 +1,12 @@
+*.pyc
+*.ckpt
+logs
+weight
+workspace
+codestream
+build
+.vscode/settings.json
+patch_outputs
+outputs
+
+checkpoints
